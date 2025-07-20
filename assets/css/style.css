@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://s3.ap-south-1.amazonaws.com/souravdhali.in/assets/img/hero-bg.JPG") top center;
+  background: url("https://raw.githubusercontent.com/Sourav328/souravdhali.in/refs/heads/main/assets/img/hero-bg.JPG") top center;
   background-size: cover;
 }
 #hero:before {
